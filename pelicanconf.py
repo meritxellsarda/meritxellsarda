@@ -1,6 +1,6 @@
 AUTHOR = 'Meritxell Sardà Ventosa'
 SITENAME = 'Meritxell Sardà Ventosa'
-SITEURL = "https://meritxellsave.github.io/MeriTxellSaVe/"
+SITEURL = "https://meritxellsarda.github.io/meritxellsarda/"
 
 PATH = "content"
 
